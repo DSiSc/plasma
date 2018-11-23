@@ -1,0 +1,11 @@
+{
+		"rooturl": "http://127.0.0.1:7545",
+		"childurl": "http://127.0.0.1:7545",
+		"rootwsurl": "ws://127.0.0.1:7545",
+		"childwsurl": "ws://127.0.0.1:7545",
+		"rootAdress": "0xd76e4f33494756883cc1eea7d1533851745a5977",
+		"childAdress": "0xca8d54ae5a9007fe7cc0ca6d24d92bc2881a5ae9",
+		"privateKey": "2da088c9bd534b098812066542379739633c8d74469d7f4156e960243f9b47bc",
+		"rootAdmin": "0x874af12fdd45814eb21d123a69000db3a91ca90d",
+		"childAdmin": "0x874af12fdd45814eb21d123a69000db3a91ca90d"
+}
